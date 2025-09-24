@@ -8,7 +8,7 @@ Our workshop includes a variety of hands-on labs to give you practical experienc
 
 | Name | Language | Description | Length |
 | ---- | -------- | ----------- | ------ |
-| **Javascript Calculator** | HTML/Javascript | A small app that serves as a good starter project | 20 mins |
+| **[Interactive Calculator](calculator-lab.md)** | HTML/Javascript | Build a fully functional calculator with keyboard support and modern design | 30-45 mins |
 | **Timer and Selector** | HTML/CSS/React | Building components for workshop trainers | 30 mins |
 | **Polaroid Image Gallery** | HTML/Javascript | Building a small image gallery with animations | 45 mins |
 | **Rock Paper Scissor** | Python | A slightly more advanced app | 30 mins |
@@ -34,7 +34,7 @@ Each lab is designed to be self-contained and includes:
 
 If you're new to GitHub Copilot, we recommend starting with:
 
-- **Javascript Calculator** (for web developers)
+- **[Interactive Calculator](calculator-lab.md)** (for web developers)
 - **Rock Paper Scissor** (for Python developers)
 
 For more experienced users, try:
